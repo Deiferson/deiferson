@@ -22,7 +22,9 @@ I am a full stack developer
 ## 🌱 I’m currently learning ...
 
 data science 🧠
+
 .Net7
+
 Angular v15
 
 ## 📫 How to reach me: ...
