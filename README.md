@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
 <!--
 **Deiferson/deiferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
