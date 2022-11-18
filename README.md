@@ -23,8 +23,8 @@ I am a full stack developer
 data science 🧠
 
 - 📫 How to reach me: ...
-![linkedIn](https://img.shields.io/badge/-linkedin-007ACC?style=flat-square&logo=linkedin&logoColor=white)
 
+[![Linkedin: deiferson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiferson-moura/)](https://www.linkedin.com/in/deiferson-moura/)
 
 <!--
 
