@@ -19,7 +19,8 @@ I am a full stack developer
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
+
 data science 🧠
 
 - 📫 How to reach me: ...
