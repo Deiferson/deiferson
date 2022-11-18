@@ -3,7 +3,7 @@
 My name is Deiferson, but everybody calls me Deif!
 I am a full stack developer 
 
-🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -23,7 +23,7 @@ I am a full stack developer
 
 data science 🧠
 
-- 📫 How to reach me: ...
+## 📫 How to reach me: ...
 
 [![Linkedin: deiferson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiferson-moura/)](https://www.linkedin.com/in/deiferson-moura/)
 
