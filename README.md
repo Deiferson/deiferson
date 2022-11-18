@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
 My name is Deiferson, but everybody calls me Deif!
+I am a full stack developer 
 
 🔭 I’m currently working on ...
 
@@ -17,19 +18,21 @@ My name is Deiferson, but everybody calls me Deif!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<!--
-**Deiferson/deiferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 - 🌱 I’m currently learning ...
+data science 🧠
+
+- 📫 How to reach me: ...
+![linkedIn](https://img.shields.io/badge/-linkedin-007ACC?style=flat-square&logo=linkedin&logoColor=white)
+
+
+<!--
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 🎷
 -->
