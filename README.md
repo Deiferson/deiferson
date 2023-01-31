@@ -23,11 +23,8 @@ I am a full stack developer
 
 ## 🌱 I’m currently learning ...
 
-data science 🧠
-
-.Net7
-
-Angular v15
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![NetFramework](https://img.shields.io/badge/-.Net-007ACC?style=flat-square&logo=.net)
 
 ## 📫 How to reach me: ...
 
