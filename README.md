@@ -23,8 +23,8 @@ I am a full stack developer
 
 ## 🌱 I’m currently learning ...
 
-![Angular](https://img.shields.io/badge/-Angular-15-DD0031?style=flat-square&logo=angular)
-![NetFramework](https://img.shields.io/badge/-.Net-7-007ACC?style=flat-square&logo=.net)
+![Angular](https://img.shields.io/badge/-Angular15-DD0031?style=flat-square&logo=angular)
+![NetFramework](https://img.shields.io/badge/-.Net7-007ACC?style=flat-square&logo=.net)
 
 ## 📫 How to reach me: ...
 
