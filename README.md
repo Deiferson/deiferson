@@ -25,7 +25,7 @@ I am a full stack developer
 
 ![Angular](https://img.shields.io/badge/-Angular15-DD0031?style=flat-square&logo=angular)
 ![NetFramework](https://img.shields.io/badge/-.Net7-007ACC?style=flat-square&logo=.net)
-
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ## 📫 How to reach me: ...
 
 [![Linkedin: deiferson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiferson-moura/)](https://www.linkedin.com/in/deiferson-moura/)
