@@ -6,7 +6,7 @@ I am a full stack developer
 ## 🔭 I’m currently working on ...
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Angular](https://img.shields.io/badge/-Material-563D7C?style=flat-square&logo=angular)
+![Material](https://img.shields.io/badge/-Material-563D7C?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![NetFramework](https://img.shields.io/badge/-.Net-007ACC?style=flat-square&logo=.net)
@@ -24,7 +24,7 @@ I am a full stack developer
 ## 🌱 I’m currently learning ...
 
 ![Angular](https://img.shields.io/badge/-Angular15-DD0031?style=flat-square&logo=angular)
-![NetFramework](https://img.shields.io/badge/-.Net7-007ACC?style=flat-square&logo=.net)
+![Net](https://img.shields.io/badge/-.Net7-007ACC?style=flat-square&logo=.net)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ## 📫 How to reach me: ...
 
