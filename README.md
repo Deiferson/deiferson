@@ -1,7 +1,12 @@
 ### Hi there! 👋
 
 My name is Deiferson, but everybody calls me Deif!
-I am a full stack developer 
+I am a full stack developer.
+
+
+i have a buddy 😺, his name is Steven. Steven is a cat and he is five years old.
+I play some musical instruments 🎸🎹 🎷 
+
 
 ## 🔭 I’m currently working on ...
 
@@ -21,12 +26,13 @@ I am a full stack developer
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-##
+## favorite technologies
 
 ![Angular](https://img.shields.io/badge/-Angular15-DD0031?style=flat-square&logo=angular)
 ![Net](https://img.shields.io/badge/-.Net7-007ACC?style=flat-square&logo=.net)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-## 📫 How to reach me: ...
+
+##
 
 [![Linkedin: deiferson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiferson-moura/)](https://www.linkedin.com/in/deiferson-moura/)
 [![Streamlit: deiferson](https://img.shields.io/badge/-Streamlit_Apps-DD0031?style=flat-square&logo=Streamlit&logoColor=white&link=https://deiferson.streamlit.app)](https://deiferson.streamlit.app)
