@@ -26,7 +26,7 @@ I play some musical instruments 🎸🎹 🎷
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## favorite technologies
+## Favorite ❤️ Technologies
 
 ![Angular](https://img.shields.io/badge/-Angular15-DD0031?style=flat-square&logo=angular)
 ![Net](https://img.shields.io/badge/-.Net7-007ACC?style=flat-square&logo=.net)
