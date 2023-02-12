@@ -29,7 +29,7 @@ I am a full stack developer
 ## 📫 How to reach me: ...
 
 [![Linkedin: deiferson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deiferson-moura/)](https://www.linkedin.com/in/deiferson-moura/)
-[![Streamlit: deiferson](https://img.shields.io/badge/-Linkedin-DD0031?style=flat-square&logo=Linkedin&logoColor=white&link=https://deiferson.streamlit.app)](https://deiferson.streamlit.app)
+[![Streamlit: deiferson](https://img.shields.io/badge/-Streamlit_Apps-DD0031?style=flat-square&logo=Linkedin&logoColor=white&link=https://deiferson.streamlit.app)](https://deiferson.streamlit.app)
 
 <div>
   <a href="https://github.com/deiferson">
