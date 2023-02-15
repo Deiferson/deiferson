@@ -29,6 +29,7 @@ I play some musical instruments 🎸🎹 🎷
 ## Favorite ❤️ Technologies
 
 ![Angular](https://img.shields.io/badge/-Angular15-DD0031?style=flat-square&logo=angular)
+![Material](https://img.shields.io/badge/-Material-563D7C?style=flat-square&logo=angular)
 ![Net](https://img.shields.io/badge/-.Net7-007ACC?style=flat-square&logo=.net)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
