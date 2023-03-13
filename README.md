@@ -35,6 +35,11 @@ I play some musical instruments 🎸🎹 🎷
 
 ##
 
+
+[![Streamlit: deiferson](https://img.shields.io/badge/-Streamlit_Apps-DD0031?style=flat-square&logo=Streamlit&logoColor=white)](https://deiferson.streamlit.app){:target="_blank" rel="noopener noreferrer"}
+
+
+
 <a href="https://deiferson.streamlit.app" target="_blank">
   <img src="https://img.shields.io/badge/-Streamlit_Apps-DD0031?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit: deiferson">
 </a>
