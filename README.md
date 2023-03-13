@@ -39,6 +39,10 @@ I play some musical instruments 🎸🎹 🎷
 [![Deif#5223](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/190206655219105793)](https://discord.com/users/190206655219105793)
 [![Streamlit: deiferson](https://img.shields.io/badge/-Streamlit_Apps-DD0031?style=flat-square&logo=Streamlit&logoColor=white&link=https://deiferson.streamlit.app)](https://deiferson.streamlit.app)
 
+<a href="https://deiferson.streamlit.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Streamlit_Apps-DD0031?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit: deiferson">
+</a>
+
 
 <div>
   <a href="https://github.com/deiferson">
